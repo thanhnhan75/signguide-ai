@@ -1,0 +1,21 @@
+.env
+.git/
+.gitignore
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
+
+# Local instructions and take-home reference material
+.agent/
+CLAUDE.md
+OVERVIEW.md
+_extract.txt
+*.pdf
+
+# Runtime output/state
+data/
+state/
+screenshots/
+artifacts/
+tests/
