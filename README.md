@@ -21,6 +21,12 @@ Python 3.12, `requests`, BeautifulSoup, `markdownify`, `tenacity`, `python-doten
 
 ## Local setup
 
+Install dependencies:
+
+```powershell
+pip install -r requirements.txt
+```
+
 Create a local environment file from the sample:
 
 ```powershell
